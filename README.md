@@ -13,3 +13,5 @@ Image-Morpher is a project for the NTU CSIE Interactive Computer Graphics 2021 S
     * Run the morphing.py script using Python 3 by typing python3 morphing.py in your terminal. A window will open showing the two images. Make sure these are the correct images, then close the window.
     * Another window will open with the title "Plot lines." Use your mouse to plot lines connecting corresponding points on the two images, as shown in the examples in Figure 1 and Figure 2. When you are finished, close the window.
     * Wait for the script to finish running. The resulting GIF will be saved to the same directory as the morphing.py script.
+## Reference
+Beier, Thaddeus, and Shawn Neely. "Feature-based image metamorphosis." ACM SIGGRAPH computer graphics 26.2 (1992): 35-42.
